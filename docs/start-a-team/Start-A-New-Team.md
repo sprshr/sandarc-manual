@@ -28,10 +28,7 @@ SANDARC only accepts sessions that are conducted via [ExamTools](https://exam.to
 the team lead is also responsible for conducting the exam session, ensuring the examiners
 are well taken care of, and that the exam session adheres to [FCC Part 97 rules](https://www.ecfr.gov/current/title-47/part-97) and
 SANDARC policies.
-- **Co-Lead**: Your co-lead can be one or more SANDARC VE's on your team who we may reach out to
-in case we are unable to reach the team lead. 
-Usually, Co-Leads are the co-owners of your [ExamTools](https://exam.tools) team.
-Please note that co-leads are not granted team lead privileges and may not independently conduct exam sessions.
+- **Co-Lead**: Your co-lead(s) can be one or more SANDARC VE's on your team who will be running sessions independently in addition to you **for your team.** They must be a co-owner on your ExamTools team. Each team can have a maximum of 2 co-leads unless more is authorized by the VEC.
 - **Team Email Address**: This email will be shared with potential applicants looking for an exam session in your area.
 It could be the team lead's email address or an email address belonging to your organization. 
 SANDARC will not use this email address to contact your team as we use the team lead's personal email address for that purpose.
