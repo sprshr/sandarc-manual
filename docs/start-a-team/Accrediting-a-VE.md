@@ -27,10 +27,14 @@ Team leads are responsible for identifying and recruiting willing, qualified ama
 To add a new examiner to your team:
 
 1. Have the prospective examiner fill out the current accreditation form.
-2. Submit the form to vec@sandarc.org
+2. Email the completed form to [vec@sandarc.org](mailto:vec@sandarc.org) in one of these formats:
+    - The PDF, filled out digitally (preferred)
+    - A scan or photo of the form filled out by hand
 
-!!! note
-    Please encourage your new team members to fill out the form digitally. Some handwriting really does hurt our eyes 😫.
+!!! warning "Forms must be a PDF, scan, or photo, and fully legible"
+    A form filled out digitally must be sent as the PDF itself — we do not accept a photo or screenshot of a screen.
+
+    If we cannot read every field, we cannot process the form. Please encourage your new team members to fill out the form digitally. Some handwriting really does hurt our eyes 😫.
 
 We process accreditation forms within 24 hours (usually much, much faster!). In the extremely unlikely case that we do not meet that deadline, kindly send us a follow-up email.
 Team leads will receive an email as soon as their new examiner has been accredited.
